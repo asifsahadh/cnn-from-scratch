@@ -4,4 +4,4 @@
 
 <p align = "justify"> HOWEVER, this project is not yet complete. I am currently stuck at the backpropagation phase. Contributions are welcome. If you'd like to help, feel free to fork the repo and submit a pull request or suggest improvements. Thank you in advance! </p>
 
-<p align = "justify"> This project is also inspired by and references materials from the Stanford Course, [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/). </p>
+This project is also inspired by and references materials from the Stanford Course, [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/).
